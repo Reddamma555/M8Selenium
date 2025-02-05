@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-02-05T11:12:21 IST" name="Default suite" finished-at="2025-02-05T11:12:21 IST" duration-ms="93">
+  <suite started-at="2025-02-05T11:54:04 IST" name="Default suite" finished-at="2025-02-05T11:54:05 IST" duration-ms="77">
     <groups>
     </groups>
-    <test started-at="2025-02-05T11:12:21 IST" name="Default test" finished-at="2025-02-05T11:12:21 IST" duration-ms="93">
-      <class name="sample.demo">
-        <test-method signature="practice()[pri:0, instance:sample.demo@77fbd92c]" started-at="2025-02-05T11:12:21 IST" name="practice" finished-at="2025-02-05T11:12:21 IST" duration-ms="20" status="PASS">
+    <test started-at="2025-02-05T11:54:04 IST" name="Default test" finished-at="2025-02-05T11:54:05 IST" duration-ms="77">
+      <class name="com.crm.special.gitpractice">
+        <test-method signature="m1()[pri:0, instance:com.crm.special.gitpractice@6e171cd7]" started-at="2025-02-05T11:54:05 IST" name="m1" finished-at="2025-02-05T11:54:05 IST" duration-ms="16" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- practice -->
-      </class> <!-- sample.demo -->
+        </test-method> <!-- m1 -->
+      </class> <!-- com.crm.special.gitpractice -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
